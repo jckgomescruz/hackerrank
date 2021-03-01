@@ -2,7 +2,7 @@ package hackerrank;
 
 import java.util.Scanner;
 
-public class StringIndexes {
+public class Day6_StringIndexes {
 
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);

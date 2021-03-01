@@ -2,7 +2,7 @@ package hackerrank;
 
 import java.util.Scanner;
 
-public class Exceptions {
+public class Day16_Exceptions {
 
 	public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

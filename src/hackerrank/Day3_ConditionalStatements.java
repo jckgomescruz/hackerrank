@@ -2,7 +2,7 @@ package hackerrank;
 
 import java.util.Scanner;
 
-public class ConditionalStatements {
+public class Day3_ConditionalStatements {
 
 	private static final Scanner scanner = new Scanner(System.in);
 

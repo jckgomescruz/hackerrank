@@ -2,7 +2,7 @@ package hackerrank;
 
 import java.util.Scanner;
 
-public class DataTypes {
+public class Day1_DataTypes {
 
 	public static void main(String[] args) {
 		int i = 4;

@@ -2,7 +2,7 @@ package hackerrank;
 
 import java.util.Scanner;
 
-public class BinaryNumbers {
+public class Day10_BinaryNumbers {
 	private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {

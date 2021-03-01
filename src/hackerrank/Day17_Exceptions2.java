@@ -15,7 +15,7 @@ class Calculator {
 	}
 }
 
-public class Exceptions2 {
+public class Day17_Exceptions2 {
 
 	public static void main(String[] args) {
 	    

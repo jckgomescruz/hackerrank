@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Maps {
+public class Day8_Maps {
 
 	public static void main(String []argh){
         Scanner in = new Scanner(System.in);

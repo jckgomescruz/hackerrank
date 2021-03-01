@@ -1,4 +1,4 @@
-package hackerrank.interfaces;
+package hackerrank.day19.interfaces;
 
 import java.util.Scanner;
 

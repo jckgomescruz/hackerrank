@@ -2,7 +2,7 @@ package hackerrank;
 
 import java.util.Scanner;
 
-public class RecursiveFactorial {
+public class Day9_RecursiveFactorial {
 
 	static int factorial(int n) {
 		int result = 1;

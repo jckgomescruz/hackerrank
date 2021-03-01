@@ -1,4 +1,4 @@
-package hackerrank.classinstance;
+package hackerrank.day4.classinstance;
 
 import java.util.Scanner;
 

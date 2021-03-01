@@ -26,7 +26,7 @@ class Solution {
 	}
 }
 
-public class QueuesAndStacks {
+public class Day18_QueuesAndStacks {
 
 	public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

@@ -2,7 +2,7 @@ package hackerrank;
 
 import java.util.Scanner;
 
-public class Operators {
+public class Day2_Operators {
 
 	// Complete the solve function below.
     static void solve(double meal_cost, int tip_percent, int tax_percent) {
